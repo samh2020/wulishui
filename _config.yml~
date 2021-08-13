@@ -4,10 +4,10 @@
 
 # Site
 title: 上海运宏国际贸易有限公司 王勇 犯罪事实说明
-subtitle: ''
+subtitle: '法律之外还有阳光，让我们来看看畜牲王勇的本来面目'
 description: ''
-keywords:
-author: 武汉纺织工学院1991级 部分同学
+keywords: 上海运宏国际贸易有限公司,王勇
+author: '武汉纺织工学院1991级部分同学'
 language: cn
 timezone: 'Asia/Shanghai'
 
@@ -102,4 +102,4 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+type: ''：
